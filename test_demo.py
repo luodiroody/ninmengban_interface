@@ -11,3 +11,10 @@ Abb.dds='this is '
 print(getattr(Abb,'dds'))
 del Abb.dds
 print(getattr(Abb,'dds'))
+#####更改后提交######
+class Acc():
+    def add (self):
+        pass
+class Ccc():
+    def add(self):
+        print('add')
